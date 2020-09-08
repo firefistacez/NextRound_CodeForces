@@ -40,3 +40,5 @@ Note
 In the first example the participant on the 5th place earned 7 points. As the participant on the 6th place also earned 7 points, there are 6 advancers.
 
 In the second example nobody got a positive score.
+
+This question is from codeforces.com problemset
