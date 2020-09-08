@@ -41,4 +41,4 @@ In the first example the participant on the 5th place earned 7 points. As the pa
 
 In the second example nobody got a positive score.
 
-This question is from codeforces.com problemset
+This question is from codeforces.com problemset 158A:Next Round
